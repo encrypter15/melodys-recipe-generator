@@ -9,7 +9,7 @@
 
 class MRG_API_Handler {
     // Replace with your Spoonacular API key
-    private $api_key = 'b0c87a616fb601a808c35ff8529b16a3e44d4dba';
+    private $api_key = '';
 
     /**
      * Fetch recipes from Spoonacular API based on ingredients
